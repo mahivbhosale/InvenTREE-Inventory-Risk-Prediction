@@ -82,6 +82,3 @@ KIT’s College of Engineering, Kolhapur
 This project is intended for academic and learning purposes only.  
 Unauthorized commercial use is prohibited.
 
----
-
-⭐ *If you found this project interesting, give it a star on GitHub!*
